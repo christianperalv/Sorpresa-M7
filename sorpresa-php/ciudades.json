@@ -1,0 +1,11 @@
+{
+    "Cagliari": {
+      "descripcion": "Capital de Cerdeña. Rica en historia y arquitectura.",
+      "imagen": "imagenes/cagliari.jpg"
+    },
+    "Alghero": {
+      "descripcion": "Ciudad costera conocida por sus playas y cultura catalana.",
+      "imagen": "imagenes/alghero.jpg"
+    }
+  }
+  
